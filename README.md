@@ -1,5 +1,5 @@
 # Cpp2Python_translator
-The present work aims to translate a program understandable by a c++ compiler into a sequence of equivalent instructions (where possible) written in python language
+The present work aims to translate a program understandable by a c++ compiler into a sequence of equivalent instructions (where possible) written in python language.
 Running the shell script “execute.sh” will translate the file in the
 “./example-c ++/” directory (named file.cpp) which will be translated into
 a file named file_out.py located in “./python/” directory.
